@@ -1,0 +1,1572 @@
+{
+  "SaveName": "",
+  "GameMode": "",
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Date": "",
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "Rules": "",
+  "XmlUI": "",
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "ObjectStates": [
+    {
+      "Name": "Deck",
+      "Transform": {
+        "posX": 20.44007,
+        "posY": 1.26416576,
+        "posZ": 2.856368E-06,
+        "rotX": 3.72638465E-06,
+        "rotY": 179.999756,
+        "rotZ": -7.954419E-08,
+        "scaleX": 1.88,
+        "scaleY": 1.0,
+        "scaleZ": 1.88
+      },
+      "Nickname": "Fortuna",
+      "Description": "(by Andarel)",
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        18611,
+        18611,
+        18613,
+        18613,
+        18603,
+        18603,
+        18605,
+        18605,
+        18607,
+        18607,
+        18609,
+        18609,
+        18601,
+        18601,
+        18615,
+        18615,
+        106,
+        106,
+        105,
+        105,
+        104,
+        104,
+        103,
+        103,
+        100,
+        100,
+        102,
+        102,
+        101,
+        101,
+        201
+      ],
+      "CustomDeck": {
+        "186": {
+          "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+          "BackURL": "https://i.imgur.com/igYZhPh.png",
+          "NumWidth": 5,
+          "NumHeight": 4,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        },
+        "1": {
+          "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+          "BackURL": "https://i.imgur.com/igYZhPh.png",
+          "NumWidth": 3,
+          "NumHeight": 3,
+          "BackIsHidden": false,
+          "UniqueBack": false
+        },
+        "2": {
+          "FaceURL": "https://i.imgur.com/ungLga0.png",
+          "BackURL": "https://i.imgur.com/Vk4NDZP.png",
+          "NumWidth": 3,
+          "NumHeight": 3,
+          "BackIsHidden": false,
+          "UniqueBack": true
+        }
+      },
+      "XmlUI": "",
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "ContainedObjects": [
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.144272,
+            "posY": 1.13365149,
+            "posZ": -9.535323,
+            "rotX": 0.000352098315,
+            "rotY": 180.0,
+            "rotZ": -0.00217451761,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Grasp (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18611,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "2cf006"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.14422846,
+            "posY": 1.286676,
+            "posZ": -9.535327,
+            "rotX": 0.00290759164,
+            "rotY": 179.999832,
+            "rotZ": 359.98288,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Grasp (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18611,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "87c3e7"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.21336651,
+            "posY": 1.30261207,
+            "posZ": -9.394226,
+            "rotX": -0.005118354,
+            "rotY": 180.0,
+            "rotZ": -0.001822165,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Cross (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18613,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "898dc9"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.21335,
+            "posY": 1.28782094,
+            "posZ": -9.394252,
+            "rotX": 0.00651260465,
+            "rotY": 179.999954,
+            "rotZ": 359.991821,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Cross (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18613,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a0f272"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.144273,
+            "posY": 1.29844093,
+            "posZ": -9.535327,
+            "rotX": 0.00370121351,
+            "rotY": 180.0,
+            "rotZ": -0.0044209,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Assault (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18603,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3a4f08"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.144273,
+            "posY": 1.297069,
+            "posZ": -9.535327,
+            "rotX": -0.00515709538,
+            "rotY": 180.0,
+            "rotZ": -0.002429528,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Assault (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18603,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7fcef9"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.63853741,
+            "posY": 1.31227434,
+            "posZ": -10.4736109,
+            "rotX": -0.000384427025,
+            "rotY": 180.0,
+            "rotZ": -0.00207008561,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Dive (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18605,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ea0739"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.63853741,
+            "posY": 1.32189894,
+            "posZ": -10.4736109,
+            "rotX": -0.000592939963,
+            "rotY": 180.0,
+            "rotZ": -0.00314553431,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Dive (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18605,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b8c206"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.10212851,
+            "posY": 1.26321912,
+            "posZ": -9.781612,
+            "rotX": 0.00486092363,
+            "rotY": 180.0,
+            "rotZ": -0.005505514,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Spike (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18607,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "96fb72"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.10212851,
+            "posY": 1.27945232,
+            "posZ": -9.781612,
+            "rotX": 0.005425908,
+            "rotY": 180.0,
+            "rotZ": 359.993866,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Spike (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18607,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "14731f"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.0576334,
+            "posY": 1.28568816,
+            "posZ": -10.2286386,
+            "rotX": 0.000110644512,
+            "rotY": 180.0,
+            "rotZ": 359.993622,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Sweep (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18609,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "1fcca6"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.0576334,
+            "posY": 1.29672945,
+            "posZ": -10.2286386,
+            "rotX": 0.000149026077,
+            "rotY": 180.0,
+            "rotZ": 359.991241,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Sweep (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18609,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "da00c4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.87626076,
+            "posY": 1.30784869,
+            "posZ": -9.17881,
+            "rotX": 0.00147287583,
+            "rotY": 180.0,
+            "rotZ": -0.0013549173,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Focus (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18601,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "cf41e5"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.87626076,
+            "posY": 1.33497882,
+            "posZ": -9.17881,
+            "rotX": 0.0007269255,
+            "rotY": 180.0,
+            "rotZ": -0.0006690396,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Focus (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18601,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c40232"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 6.354109,
+            "posY": 1.32919335,
+            "posZ": -9.07432,
+            "rotX": -0.00203781459,
+            "rotY": 180.0,
+            "rotZ": -0.0002739083,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Block (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18615,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "7c39ca"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 5.58893538,
+            "posY": 1.31934822,
+            "posZ": -8.275516,
+            "rotX": 0.00181309739,
+            "rotY": 179.99292,
+            "rotZ": 0.004225753,
+            "scaleX": 1.88,
+            "scaleY": 1.0,
+            "scaleZ": 1.88
+          },
+          "Nickname": "Block (N)",
+          "Description": "The Red Dragon Inn",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 18615,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "186": {
+              "FaceURL": "https://i.imgur.com/bw7M4We.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 5,
+              "NumHeight": 4,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "10fdb7"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.40669656,
+            "posZ": 1.65057907E-06,
+            "rotX": 0.000106063955,
+            "rotY": 180.0,
+            "rotZ": -8.352837E-05,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Fold (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 106,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "a2c421"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.4029516,
+            "posZ": 1.63958509E-06,
+            "rotX": 0.000354727817,
+            "rotY": 180.0,
+            "rotZ": -0.0002863165,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Fold (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 106,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "241d3a"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.4400616,
+            "posY": 1.40211535,
+            "posZ": 5.134524E-07,
+            "rotX": 0.000364808657,
+            "rotY": 180.0,
+            "rotZ": -0.000302703527,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Play Fast (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 105,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "901f02"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.43194437,
+            "posZ": 1.65057168E-06,
+            "rotX": 0.000216218919,
+            "rotY": 180.0,
+            "rotZ": -0.000179899216,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Play Fast (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 105,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "d37d64"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.4400616,
+            "posY": 1.425246,
+            "posZ": 5.19532364E-07,
+            "rotX": 0.000307474023,
+            "rotY": 180.0,
+            "rotZ": -0.000255978754,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Wild Card (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 104,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "5f7350"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.44335938,
+            "posZ": 1.654789E-06,
+            "rotX": 0.000302312779,
+            "rotY": 180.0,
+            "rotZ": -0.0002523544,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Wild Card (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 104,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "150831"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.44778907,
+            "posZ": 1.65250094E-06,
+            "rotX": 0.0002537819,
+            "rotY": 180.0,
+            "rotZ": -0.000211772567,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Pocket Aces (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 103,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "9764c0"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.47380257,
+            "posZ": 1.64968435E-06,
+            "rotX": 0.000174482746,
+            "rotY": 180.0,
+            "rotZ": -0.000150961,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Pocket Aces (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 103,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "b064c4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.46974313,
+            "posZ": 1.649357E-06,
+            "rotX": 0.000204543321,
+            "rotY": 180.0,
+            "rotZ": -0.0001789961,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Long Shot (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "fd1ee7"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.4966625,
+            "posZ": 1.65279323E-06,
+            "rotX": 0.000125722974,
+            "rotY": 180.0,
+            "rotZ": -0.000105222505,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Long Shot (S)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 100,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "aac593"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.49110889,
+            "posZ": 1.651258E-06,
+            "rotX": 0.000177272683,
+            "rotY": 180.0,
+            "rotZ": -0.00015193857,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Straight (U)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 102,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0a139a"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.51477623,
+            "posZ": 1.649941E-06,
+            "rotX": 0.000113112852,
+            "rotY": 180.0,
+            "rotZ": -0.000100989062,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Straight (U)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 102,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "c07da4"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.44006,
+            "posY": 1.51188457,
+            "posZ": 1.64952894E-06,
+            "rotX": 0.000143836543,
+            "rotY": 180.0,
+            "rotZ": -0.000130412882,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Play the Odds (U)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 101,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "802c01"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.4400616,
+            "posY": 1.51279962,
+            "posZ": 3.68352175E-07,
+            "rotX": 0.000300044572,
+            "rotY": 180.0,
+            "rotZ": -0.00027415657,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Play the Odds (U)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 101,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/01O45vy.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "949623"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": 20.4400616,
+            "posY": 1.53318942,
+            "posZ": 1.65182826E-06,
+            "rotX": 1.6462127E-05,
+            "rotY": 180.0,
+            "rotZ": -9.667873E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Fortuna (C)",
+          "Description": "Fortuna (by Andarel)",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": false,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": true,
+          "CardID": 201,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "2": {
+              "FaceURL": "https://i.imgur.com/ungLga0.png",
+              "BackURL": "https://i.imgur.com/Vk4NDZP.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": false,
+              "UniqueBack": true
+            }
+          },
+          "XmlUI": "",
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ddcb09"
+        }
+      ],
+      "GUID": "393e05"
+    }
+  ],
+  "TabStates": {},
+  "VersionNumber": ""
+}

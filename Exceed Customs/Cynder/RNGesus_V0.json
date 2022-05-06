@@ -1,0 +1,3593 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "642970",
+      "Name": "Bag",
+      "Transform": {
+        "posX": -15.9087019,
+        "posY": 0.7749658,
+        "posZ": -18.6981926,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "RNGesus V0",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 0.9020692,
+        "b": 0.796167254
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "e71ba5",
+          "Name": "Bag",
+          "Transform": {
+            "posX": -16.551775,
+            "posY": 2.86102843,
+            "posZ": -18.3372765,
+            "rotX": -6.01977E-07,
+            "rotY": 6.26989868E-06,
+            "rotZ": -4.1354653E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Dices",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 0.7058823,
+            "g": 0.366520882,
+            "b": 0.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "Bag": {
+            "Order": 0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "93431f",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -11.0731821,
+                "posY": 3.571069,
+                "posZ": -18.4672661,
+                "rotX": 270.039551,
+                "rotY": 359.961273,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Range Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.0,
+                "g": 0.486988723,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "8ac2f7",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -12.152504,
+                "posY": 3.571068,
+                "posZ": -18.48329,
+                "rotX": 270.039551,
+                "rotY": 359.961273,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Range Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.0,
+                "g": 0.486988723,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "2c9ea6",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -9.476832,
+                "posY": 3.5710547,
+                "posZ": -18.5152969,
+                "rotX": 270.034271,
+                "rotY": 359.961273,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Power Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "377f16",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -7.942708,
+                "posY": 3.57105422,
+                "posZ": -18.6427116,
+                "rotX": 270.034271,
+                "rotY": 359.961273,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Speed Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.611498237,
+                "g": 0.577925742,
+                "b": 0.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "97124d",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -6.35454273,
+                "posY": 3.57107,
+                "posZ": -18.4351616,
+                "rotX": 270.039551,
+                "rotY": 359.961365,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Armor Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.427509725,
+                "g": 0.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "83496c",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -4.81273365,
+                "posY": 3.571071,
+                "posZ": -18.547245,
+                "rotX": 270.039551,
+                "rotY": 359.961456,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Guard Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.1699087,
+                "g": 0.8310105,
+                "b": 0.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "2e5759",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -3.42516732,
+                "posY": 3.57107019,
+                "posZ": -18.4672642,
+                "rotX": 270.039551,
+                "rotY": 359.9618,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "9c66be",
+              "Name": "Die_10",
+              "Transform": {
+                "posX": -1.836423,
+                "posY": 3.35556173,
+                "posZ": -18.7520676,
+                "rotX": 321.1727,
+                "rotY": 131.443237,
+                "rotZ": 235.182037,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 234.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -233.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 20.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -17.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -161.0
+                  }
+                },
+                {
+                  "Value": "7",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 307.0
+                  }
+                },
+                {
+                  "Value": "8",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -304.0
+                  }
+                },
+                {
+                  "Value": "9",
+                  "Rotation": {
+                    "x": -38.0,
+                    "y": 0.0,
+                    "z": 163.0
+                  }
+                },
+                {
+                  "Value": "10",
+                  "Rotation": {
+                    "x": 38.0,
+                    "y": 180.0,
+                    "z": -90.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "e85348",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -10.2840853,
+                "posY": 3.34851336,
+                "posZ": -18.6398849,
+                "rotX": 270.0,
+                "rotY": 3.17763551E-07,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Power Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "61441d",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -12.6827431,
+                "posY": 3.347546,
+                "posZ": -18.5884342,
+                "rotX": 270.0,
+                "rotY": 3.17763551E-07,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Range Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.0,
+                "g": 0.486988723,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "60b5a3",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -11.9320993,
+                "posY": 3.347546,
+                "posZ": -18.6227512,
+                "rotX": 270.0,
+                "rotY": 3.17763551E-07,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Range Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.0,
+                "g": 0.486988723,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "9f112e",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -8.745304,
+                "posY": 3.34851336,
+                "posZ": -18.69118,
+                "rotX": 270.0,
+                "rotY": 3.17763551E-07,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Speed Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 0.9479551,
+                "b": 0.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "c1afa6",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -7.100714,
+                "posY": 3.34851336,
+                "posZ": -18.6227512,
+                "rotX": 270.0,
+                "rotY": 3.17763551E-07,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Armor Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.427509725,
+                "g": 0.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "e97186",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -10.5604086,
+                "posY": 3.366226,
+                "posZ": -18.3098373,
+                "rotX": 270.767944,
+                "rotY": 41.9054451,
+                "rotZ": 318.115631,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Guard Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.169908673,
+                "g": 0.8310105,
+                "b": 0.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "9b1792",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -10.3489275,
+                "posY": 3.357047,
+                "posZ": -18.4137764,
+                "rotX": 270.153229,
+                "rotY": 45.63186,
+                "rotZ": 314.3487,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "GUID": "a1ff5f",
+              "Name": "Die_6",
+              "Transform": {
+                "posX": -10.5616131,
+                "posY": 3.36835432,
+                "posZ": -18.4774628,
+                "rotX": 270.7533,
+                "rotY": 54.7795143,
+                "rotZ": 305.2205,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Dice",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "MaterialIndex": 0,
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "RotationValues": [
+                {
+                  "Value": "1",
+                  "Rotation": {
+                    "x": -90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "2",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                {
+                  "Value": "3",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -90.0
+                  }
+                },
+                {
+                  "Value": "4",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 90.0
+                  }
+                },
+                {
+                  "Value": "5",
+                  "Rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -180.0
+                  }
+                },
+                {
+                  "Value": "6",
+                  "Rotation": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "GUID": "0bffd1",
+          "Name": "Deck",
+          "Transform": {
+            "posX": -16.3260765,
+            "posY": 3.21623564,
+            "posZ": -18.7857246,
+            "rotX": -1.88827043E-09,
+            "rotY": 180.018173,
+            "rotZ": -5.769379E-07,
+            "scaleX": 1.25,
+            "scaleY": 1.0,
+            "scaleZ": 1.25
+          },
+          "Nickname": "RNGesus",
+          "Description": "",
+          "GMNotes": "",
+          "Memo": "",
+          "ColorDiffuse": {
+            "r": 0.58431375,
+            "g": 0.0,
+            "b": 0.7019608
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "SidewaysCard": false,
+          "DeckIDs": [
+            100,
+            100,
+            101,
+            101,
+            102,
+            102,
+            103,
+            103,
+            104,
+            104,
+            105,
+            105,
+            106,
+            106,
+            107,
+            107,
+            575804,
+            575804,
+            575806,
+            575806,
+            575800,
+            575800,
+            575805,
+            575805,
+            575803,
+            575803,
+            575802,
+            575802,
+            575801,
+            575801,
+            781700
+          ],
+          "CustomDeck": {
+            "1": {
+              "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 4,
+              "NumHeight": 2,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            },
+            "5758": {
+              "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+              "BackURL": "https://i.imgur.com/igYZhPh.png",
+              "NumWidth": 3,
+              "NumHeight": 3,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            },
+            "7817": {
+              "FaceURL": "https://i.imgur.com/GQEnSO9.png",
+              "BackURL": "https://i.imgur.com/T8478K1.png",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Grasp (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.00",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 100,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Grasp (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.00",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 100,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Cross (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.01",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 101,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Cross (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.01",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 101,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Assault (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.02",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 102,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Assault (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.02",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 102,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Dive (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.03",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 103,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Dive (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.03",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 103,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Spike (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.04",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 104,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Spike (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.04",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 104,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Sweep (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.05",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 105,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Sweep (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.05",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 105,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Focus (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.06",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 106,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Focus (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.06",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 106,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Block (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.07",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 107,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "",
+              "Name": "Card",
+              "Transform": {
+                "posX": 0.0,
+                "posY": 0.0,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Block (N)",
+              "Description": "Seventh Cross (Alternate)",
+              "GMNotes": "Seventh Cross (Alternate).1.07",
+              "Memo": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": false,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 107,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "1": {
+                  "FaceURL": "https://i.imgur.com/jWGO1lx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 4,
+                  "NumHeight": 2,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "AttachedDecals": []
+            },
+            {
+              "GUID": "61a6d8",
+              "Name": "Card",
+              "Transform": {
+                "posX": 6.965546,
+                "posY": 0.973600149,
+                "posZ": -21.290411,
+                "rotX": 3.80164056E-05,
+                "rotY": 179.99675,
+                "rotZ": -0.000248052733,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Absolute RNG (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575804,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "04746d",
+              "Name": "Card",
+              "Transform": {
+                "posX": 6.985589,
+                "posY": 1.01362538,
+                "posZ": -21.5699539,
+                "rotX": 0.000798694266,
+                "rotY": 179.996735,
+                "rotZ": -0.000252054248,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Absolute RNG (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575804,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "29c864",
+              "Name": "Card",
+              "Transform": {
+                "posX": 3.7307632,
+                "posY": 0.9735893,
+                "posZ": -21.1498871,
+                "rotX": 0.000132339235,
+                "rotY": 179.99675,
+                "rotZ": -0.0008182002,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "And then GM said... (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575806,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "e456d5",
+              "Name": "Card",
+              "Transform": {
+                "posX": 3.369992,
+                "posY": 1.00719762,
+                "posZ": -21.69638,
+                "rotX": -0.000599978259,
+                "rotY": 179.99675,
+                "rotZ": -0.00336945173,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "And then GM said... (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575806,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "df1e22",
+              "Name": "Card",
+              "Transform": {
+                "posX": -0.1762304,
+                "posY": 0.973595858,
+                "posZ": -21.3764076,
+                "rotX": 8.20411951E-05,
+                "rotY": 179.99675,
+                "rotZ": -0.000483485928,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "EIDKWID (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575800,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "15754b",
+              "Name": "Card",
+              "Transform": {
+                "posX": -0.500388861,
+                "posY": 1.00726438,
+                "posZ": -21.0336056,
+                "rotX": 0.00135460519,
+                "rotY": 179.99675,
+                "rotZ": -0.00230958359,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "EIDKWID (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575800,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "9c981a",
+              "Name": "Card",
+              "Transform": {
+                "posX": 8.592455,
+                "posY": 1.05435276,
+                "posZ": -26.2469139,
+                "rotX": -0.005226592,
+                "rotY": 179.99675,
+                "rotZ": -0.0004945203,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Divine Rush (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575805,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "31ef7a",
+              "Name": "Card",
+              "Transform": {
+                "posX": 8.917113,
+                "posY": 1.09437013,
+                "posZ": -26.1221142,
+                "rotX": 359.991669,
+                "rotY": 179.99675,
+                "rotZ": -0.000143398982,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Divine Rush (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575805,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "a3ccfd",
+              "Name": "Card",
+              "Transform": {
+                "posX": 5.53002548,
+                "posY": 1.0543654,
+                "posZ": -26.4590836,
+                "rotX": -0.001265053,
+                "rotY": 179.99675,
+                "rotZ": -0.000137869036,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "A Piano From Above (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575803,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "94f064",
+              "Name": "Card",
+              "Transform": {
+                "posX": 5.470721,
+                "posY": 1.09423113,
+                "posZ": -26.3354568,
+                "rotX": -0.00166921539,
+                "rotY": 179.99675,
+                "rotZ": -0.000191564031,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "A Piano From Above (S)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575803,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "500cb5",
+              "Name": "Card",
+              "Transform": {
+                "posX": 2.658127,
+                "posY": 1.05131423,
+                "posZ": -26.1498165,
+                "rotX": 357.965576,
+                "rotY": 179.992859,
+                "rotZ": 0.000375020783,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Critical Role (U)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575802,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "83099d",
+              "Name": "Card",
+              "Transform": {
+                "posX": 2.891242,
+                "posY": 1.12671864,
+                "posZ": -26.1873531,
+                "rotX": 358.34198,
+                "rotY": 180.014069,
+                "rotZ": 359.076843,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Critical Role (U)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575802,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "55d7a0",
+              "Name": "Card",
+              "Transform": {
+                "posX": -0.370107174,
+                "posY": 1.05436587,
+                "posZ": -26.3054352,
+                "rotX": -0.00224562781,
+                "rotY": 179.99675,
+                "rotZ": -2.9796458E-05,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Dicegeddon (U)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575801,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "405122",
+              "Name": "Card",
+              "Transform": {
+                "posX": -0.222416431,
+                "posY": 1.09425628,
+                "posZ": -26.3841248,
+                "rotX": -0.00372616015,
+                "rotY": 179.99675,
+                "rotZ": -0.000337753561,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "Dicegeddon (U)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.58431375,
+                "g": 0.0,
+                "b": 0.7019608
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 575801,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5758": {
+                  "FaceURL": "https://i.imgur.com/sTVJCjx.jpg",
+                  "BackURL": "https://i.imgur.com/igYZhPh.png",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "eb192e",
+              "Name": "CardCustom",
+              "Transform": {
+                "posX": 10.2661419,
+                "posY": 1.31850266,
+                "posZ": -20.6825924,
+                "rotX": 1.01923213E-07,
+                "rotY": 180.0,
+                "rotZ": -7.99692E-07,
+                "scaleX": 1.25,
+                "scaleY": 1.0,
+                "scaleZ": 1.25
+              },
+              "Nickname": "RNGesus (C)",
+              "Description": "",
+              "GMNotes": "",
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 781700,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "7817": {
+                  "FaceURL": "https://i.imgur.com/GQEnSO9.png",
+                  "BackURL": "https://i.imgur.com/T8478K1.png",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
